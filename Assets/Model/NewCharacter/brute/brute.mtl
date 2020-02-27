@@ -1,0 +1,70 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Moustache
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d brute_Moustache_Opacity.png
+map_Kd brute_Moustache_Diffuse.png
+adobe_map_normal brute_Moustache_Normal.png
+map_Ks brute_Moustache_Specular.png
+adobe_map_shininess brute_Moustache_Gloss.png
+
+newmtl Beard
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d brute_Beard_Opacity.png
+map_Kd brute_Beard_Diffuse.png
+adobe_map_normal brute_Beard_Normal.png
+map_Ks brute_Beard_Specular.png
+adobe_map_shininess brute_Beard_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d brute_Hair_Opacity.png
+map_Kd brute_Hair_Diffuse.png
+adobe_map_normal brute_Hair_Normal.png
+map_Ks brute_Hair_Specular.png
+adobe_map_shininess brute_Hair_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d brute_Body_Opacity.png
+map_Kd brute_Body_Diffuse.png
+adobe_map_normal brute_Body_Normal.png
+map_Ks brute_Body_Specular.png
+adobe_map_shininess brute_Body_Gloss.png
+
